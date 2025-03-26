@@ -1,3 +1,4 @@
 fastai
 torch
 streamlit
+plotly
